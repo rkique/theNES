@@ -1,0 +1,6 @@
+PS C:\Users\Eric\Desktop\python> & C:/Users/Eric/AppData/Local/Programs/Python/Python39/python.exe c:/Users/Eric/Desktop/python/oneliners.py
+PS C:\Users\Eric\Desktop\python> & C:/Users/Eric/AppData/Local/Programs/Python/Python39/python.exe c:/Users/Eric/Desktop/python/oneliners.py
+[[], [], ['Calejflsda', 'lkjsadl', 'flsdajlf', 'jlkaslf', 'jsdlk', 'jfkljsdalj', 'flsdjkl'], ['sdafasd', 'fkjsdlakf', 'ldsaj', 'ajsdkljflk', 'jsdklj', 'fljsdalk', 'jflkjsd'], ['jljflpoiOCn', 'sdjfalsd', 'jiowe', 'wfnc', 'lkmaldsk', 'fjowie', 'sdlkcmaoiqo', 'hounakmqi', 'cjlkjoiqnw'], ['jcaijoq', 'hopiphoam', 'coijq', 'ajoicjoehcn', 'hyaoqcnaoq', 'hoaohoquo', 'ouoapiuq', 'ojdsoa', 'dfowop'], []]
+PS C:\Users\Eric\Desktop\python> & C:/Users/Eric/AppData/Local/Programs/Python/Python39/python.exe c:/Users/Eric/Desktop/python/oneliners.py
+[[], [], ['jfs'], ['df', 'f'], ['a'], ['n', 'a', 'hq'], []]
+PS C:\Users\Eric\Desktop\python>
